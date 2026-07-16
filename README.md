@@ -10,9 +10,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Student** passionate about **Agentic Coding & Agentic Engineering**
+- 🎓 **Information Science** student at university
 - 🧠 Currently exploring **AI agents**, autonomous coding workflows, and intelligent systems
 - 🔧 Full stack developer with a strong foundation in both frontend and backend
+- 🤖 Passionate about **Agentic Coding & Agentic Engineering**
 - 🌱 Always learning, always building
 
 ---
@@ -62,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThantZ-cloud&theme=tokyonight&hide_border=true" width="600" />
+<img src="https://streak-stats.demolab.com?user=ThantZ-cloud&theme=tokyonight&hide_border=true" width="600" />
 
 </div>
 
