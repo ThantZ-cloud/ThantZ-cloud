@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm **Thant Zin Htun**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=44AAFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Agentic+Coder+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+AI-powered+Solutions+%E2%9A%A1;Student+who+loves+to+learn+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=44AAFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Agentic+Coder+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+AI-powered+Solutions+%E2%9A%A1;Student+who+loves+to+learn+%F0%9F%8E%93" alt="Typing SVG" />
 
 </div>
 
